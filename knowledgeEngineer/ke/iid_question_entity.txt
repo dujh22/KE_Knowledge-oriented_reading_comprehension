@@ -1,0 +1,546 @@
+0	Canada
+1	Stuttgart
+2	Kenya
+3	Leningrad
+4	Belize
+5	Australian
+6	Sub Saharan Africa
+7	Pennsylvania
+8	Weimar Republic
+9	Ohio
+10	New Jersey Department of Education
+11	Northern Maine
+12	Lappeenranta Swedish Villmanstrand
+13	David Bowie
+14	California
+15	France
+16	Parish
+17	Missouri
+18	UK
+19	Pennsylvania
+20	Australia
+21	Finnish
+22	Argentina
+23	School and its mascot
+24	Game of Thrones
+25	Imperial Russian
+26	New York City
+27	Pradesh India
+28	
+29	
+30	County Texas
+31	Warsaw
+32	
+33	
+34	Michigan
+35	Norwegian
+36	Scotland
+37	Canada
+38	Montreal
+39	the United States
+40	Natal South Africa
+41	State of Washington
+42	Oregon
+43	Sweden
+44	States Texas
+45	
+46	Morrissey
+47	John s University New York
+48	
+49	
+50	the state of New South Wales
+51	
+52	Sweden
+53	Goiás
+54	UK
+55	Vatican City
+56	US
+57	Argentina
+58	Atlanta
+59	Germany June
+60	Brussels
+61	Oregon
+62	
+63	Kampala
+64	
+65	Germany
+66	Gloria Estefan
+67	Malaysian
+68	Sylvester Stallone
+69	Indiana
+70	Iraq
+71	Texas
+72	Toronto
+73	The X Files
+74	Canada
+75	Germany
+76	Bulgarian
+77	Japan
+78	South Park
+79	
+80	Germany
+81	Cornwall
+82	Finnish
+83	Mariah Carey
+84	County Virginia
+85	Hamburg
+86	New York
+87	Spain
+88	Argentina
+89	the United States
+90	
+91	
+92	Germany
+93	United Kingdom
+94	Melbourne
+95	Chicago
+96	Province Sri Lanka
+97	Make Way for Tomorrow
+98	
+99	Ireland
+100	television series Lost
+101	Napoleon
+102	
+103	Swedish
+104	Belgium
+105	University of Oxford
+106	the United States House of Representatives
+107	Berlin
+108	Oregon
+109	Belgium
+110	United Arab Emirates
+111	First World War
+112	Philippines
+113	Iran
+114	
+115	Paris
+116	Canada
+117	Slovenia
+118	
+119	the United States
+120	Zavaleta Buenos Aires
+121	Sarajevo
+122	Denmark
+123	UK
+124	Pennsylvania
+125	Canada
+126	
+127	German
+128	Michigan
+129	Japan
+130	Denmark
+131	France
+132	Albanian
+133	Canadian
+134	Dutch
+135	Beijing
+136	South Korean
+137	Mexico
+138	Manhattan New York City
+139	Italian
+140	
+141	Prussia
+142	
+143	Australia
+144	
+145	US
+146	County New Jersey
+147	Dynamo Kyiv
+148	Cucamonga California
+149	Equatorial Guinea
+150	Nawaz Sharif
+151	Mexico
+152	Danish
+153	South Park
+154	Indonesia
+155	Indian
+156	Canada
+157	George Harrison
+158	United States
+159	Ecuador
+160	Estonian
+161	Bergen
+162	South Korea
+163	Republic of the Fiji Islands
+164	The Simpsons
+165	County California
+166	SA
+167	D C United States
+168	France
+169	Turkey
+170	Vienna
+171	Kamaraj
+172	Norway
+173	Canada
+174	Ontario
+175	the United States
+176	
+177	
+178	Japan
+179	Berlin
+180	Istanbul
+181	Northern Ireland
+182	Richard III
+183	New South Wales
+184	Brian Wilson
+185	Finland
+186	United Kingdom
+187	Germany
+188	Kobe
+189	British India
+190	Bangladesh
+191	US
+192	Canada
+193	Punjab
+194	Scottish
+195	Bosnia and Herzegovina
+196	Texas
+197	West Virginia
+198	Somalia
+199	Polish
+200	Singaporean
+201	Norwegian
+202	Japan
+203	Canada
+204	Turkey
+205	California
+206	Rome
+207	France
+208	Poland
+209	Canadian
+210	
+211	Elizabeth South Africa
+212	Quebec
+213	US
+214	
+215	Miles Davis
+216	Argentina
+217	County New Jersey
+218	Australia
+219	Ulysses S Grant
+220	
+221	The Simpsons
+222	Tajikistan province in iran
+223	Indian
+224	
+225	County Oregon United States
+226	Canada
+227	New Zealand
+228	India
+229	Goryeo
+230	Naples
+231	World War II
+232	
+233	Franklin D Roosevelt
+234	Germany
+235	American
+236	Chicago White Sox
+237	Lionsgate Entertainment
+238	the United States
+239	England
+240	David Lean
+241	Australian
+242	Georgia
+243	
+244	England
+245	County Pennsylvania
+246	United States
+247	France
+248	Chile
+249	Canada
+250	Angeles California
+251	Texas
+252	George V
+253	Minnesota Vikings
+254	Government of India
+255	Lavrentiy Beria
+256	Moscow
+257	Wales
+258	Thai
+259	Swiss
+260	Polydor Records
+261	Peninsula Tasmania
+262	Italy
+263	France
+264	Germany
+265	USA
+266	US
+267	Texas
+268	India
+269	Madrid
+270	Virginia Beach
+271	Columbia Canada
+272	Norway
+273	Illinois
+274	Harlan Ellison
+275	Borough
+276	
+277	South Africa
+278	Vienna
+279	Leipzig
+280	New York City
+281	County Missouri
+282	Norwegian
+283	
+284	US
+285	New Zealand
+286	Australian
+287	Hainan Province
+288	Heilongjiang province
+289	American
+290	Ontario
+291	English
+292	Australia
+293	Poland
+294	
+295	Ireland
+296	Canada
+297	Netherlands
+298	Italian
+299	Chile
+300	Iranian
+301	George Lucas
+302	the United States
+303	Minneapolis
+304	South Korean
+305	French
+306	Virginia
+307	Japan
+308	England
+309	Ohio
+310	Swedish
+311	
+312	Canadian
+313	Mexico
+314	United States
+315	French
+316	California
+317	Hubei Province
+318	County Maine
+319	United Kingdom
+320	Bonn
+321	
+322	Austria
+323	
+324	Queensland
+325	South Wales Australia
+326	United States
+327	Bonn
+328	American
+329	
+330	Netherlands
+331	County New Jersey
+332	Flanders
+333	Paris
+334	Province Thailand
+335	Basel
+336	Canada
+337	British television
+338	Cornwall
+339	Bolivia
+340	Czech Republic
+341	JJ Abrams
+342	States Texas
+343	Pennsylvania
+344	South Island
+345	
+346	the United States
+347	Portland
+348	Chicago
+349	New York City
+350	France
+351	Antonio Texas
+352	Soviet Union
+353	Kagan
+354	Kerala
+355	Denmark
+356	California
+357	British
+358	Vienna
+359	California
+360	
+361	Germany
+362	Barbra Streisand
+363	Manhattan
+364	Doubs
+365	Estonia
+366	Norwegian
+367	Massachusetts
+368	BBC
+369	Canada
+370	Austria
+371	Spanish
+372	Anhalt Germany
+373	Netherlands
+374	Kingdom of the Netherlands
+375	Maryland
+376	Berlin
+377	
+378	Japan
+379	
+380	Denmark
+381	Argentina
+382	New York
+383	Edgar Allan Poe
+384	
+385	
+386	Victoria
+387	Namibian
+388	Norwegian
+389	Malaysia
+390	Ontario
+391	US
+392	India
+393	Mexico
+394	Athens
+395	USSR
+396	Finland
+397	Dutch
+398	Pakistani Government
+399	Canada
+400	
+401	South Africa
+402	
+403	Canada
+404	Massachusetts
+405	Communist Party of China
+406	Vienna
+407	Georgia
+408	Canada
+409	Angeles California
+410	Barry Gibb
+411	
+412	Canadian
+413	Hawaii
+414	County Pennsylvania
+415	Venezuela
+416	Indonesia
+417	China
+418	American
+419	Lower Saxony
+420	Canadian
+421	German
+422	
+423	Belgium
+424	US
+425	US
+426	Vienna
+427	Province Argentina
+428	Henry IV
+429	Georgia
+430	Canada
+431	County Tennessee
+432	South Australia
+433	Canada
+434	New Jersey
+435	
+436	Finnish
+437	New Hampshire
+438	Florida
+439	
+440	Sicilian
+441	Kristin Hersh
+442	Victoria
+443	the United States
+444	Western Front
+445	Haitian
+446	Friesland
+447	Virginia
+448	American
+449	Continental Army
+450	Indonesia
+451	Illinois
+452	Italy
+453	County New York
+454	
+455	og Fjordane Norway
+456	Tina Fey
+457	British
+458	Spain
+459	French Republic
+460	France
+461	Seoul
+462	Swedish
+463	Italian
+464	Canada
+465	Åland
+466	Madrid
+467	Vietnam
+468	Canada
+469	Swedish
+470	German
+471	
+472	Atlanta Braves
+473	Canadian
+474	United States
+475	Quebec
+476	US
+477	United Kingdom
+478	Sweden
+479	
+480	Ababa Ethiopia
+481	Dizzy Gillespie
+482	Columbia Canada
+483	the United States
+484	Dresden
+485	New York City
+486	Yorkshire England
+487	County Pennsylvania
+488	British Columbia
+489	New York
+490	Australia
+491	Japan
+492	the United States of America
+493	Ukrainian
+494	
+495	China
+496	Alaska
+497	Serbia
+498	Japan
+499	
+500	County Ohio
+501	Oslo
+502	Japan
+503	California
+504	Gujarat India
+505	Maryland
+506	Washington DC
+507	County New Jersey
+508	
+509	Norway
+510	Oklahoma
+511	German
+512	
+513	Lebanon
+514	Mexico
+515	Victoria
+516	
+517	France
+518	Canada
+519	Malagasy
+520	China
+521	
+522	
+523	Swedish
+524	United States
+525	Vorpommern Germany
+526	Latvian
+527	Australian
+528	
+529	Frankfurt am Main
+530	Shanghai
+531	UK
+532	Canada
+533	Finland
+534	
+535	Norwegian
+536	Dutch
+537	Ottoman
+538	New Zealand
+539	Bangkok
+540	the United States
+541	Australia
+542	Japanese
+543	New Jersey
+544	Gary Numan
+545	Albright Joshua Bell Michael Brown

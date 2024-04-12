@@ -11,9 +11,9 @@
 
 ### 2 课题分工
 
-| Name          | Task                                    |
-| ------------- | --------------------------------------- |
-| DJH（Leader） | Baseline：knowledgeEngineer文件内部全部 |
-| LZY           | Algorithm                               |
-| ZYA           | Algorithm                               |
+| Name          | Task                                                |
+| ------------- | --------------------------------------------------- |
+| DJH（Leader） | Baseline：knowledgeEngineer                         |
+| LZY           | Algorithm：Knowledge-oriented_reading_comprehension |
+| ZYA           | Algorithm：entity_extract                           |
 
